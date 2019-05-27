@@ -27,6 +27,7 @@
 * [2018-12](2018-12/README.md)
   * [新的近期书单以及恢复建站的愿望](2018-12/2018-12.md)
 * [2019-05](2019-05/README.md)
+  * [Migration: GitBook 2.0](2019-05/migration-gitbook-2.0.md)
   * [穷爸爸富爸爸](2019-05/qiong-ba-ba-fu-ba-ba.md)
   * [众病之王：癌症传](2019-05/zhong-bing-zhi-wang-ai-zheng-chuan.md)
 
