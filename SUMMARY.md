@@ -30,4 +30,5 @@
   * [Migration: GitBook 2.0](2019-05/migration-gitbook-2.0.md)
   * [穷爸爸富爸爸](2019-05/qiong-ba-ba-fu-ba-ba.md)
   * [众病之王：癌症传](2019-05/zhong-bing-zhi-wang-ai-zheng-chuan.md)
+  * [挪威的森林](2019-05/nuo-wei-de-sen-lin.md)
 
